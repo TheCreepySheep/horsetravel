@@ -35,7 +35,7 @@ Needs the player to have *horsetravel.use*
 Please report them [here](https://github.com/TheCreepySheep/horsetravel/issues "Issue Tracker").
 
 # Suggestions?
-I'm always open to suggestions and constructive criticism. You can send suggestions as a PM or comment on the [Spigot resource page](https://www.spigotmc.org/resources/horsetravel-an-rpg-fast-travel.56360/).
+I'm always open to suggestions and constructive criticism. You can send suggestions as a PM or a comment on the [Spigot resource page](https://www.spigotmc.org/resources/horsetravel-an-rpg-fast-travel.56360/).
 
 # Planned features
 - Configurable departure messages
